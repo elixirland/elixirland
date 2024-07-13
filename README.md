@@ -16,7 +16,7 @@ Each repository within Elixirland will include a README file containing an assig
 As stated above, contributions are welcome. Whether in the form of code reviewing, opening an issue or creating pull requests.
 
 ## Other open source repositories
-Here is a non-exhaustive list of open source projects outside of Elixirland.
+Here is a non-exhaustive list of open source repositories outside of Elixirland.
 
   - https://github.com/livebook-dev/livebook
   - https://github.com/fly-apps/live_beats
