@@ -15,7 +15,7 @@ Each repository within Elixirland will include a README file containing an assig
 ## Contributions
 As stated above, contributions are welcome. Whether in the form of code reviewing, opening an issue or creating pull requests.
 
-## Other open source projects
+## Other open source repositories
 Here is a non-comprehensive list of open source projects outside of Elixirland.
 
   - https://github.com/livebook-dev/livebook
@@ -23,4 +23,3 @@ Here is a non-comprehensive list of open source projects outside of Elixirland.
   - https://github.com/elixir-ecto/ecto
   - https://github.com/chrismccord/todo_trek
   - https://github.com/chrismccord/heroicons_elixir
-  
