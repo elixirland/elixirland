@@ -12,7 +12,7 @@ Each repository within Elixirland will include a README file containing an assig
 
 **Note**: The primary focus of these repositories is to serve as learning resources. Therefore, the projects may not necessarily have real-world applications.
 
-## Assignments repositories
+## Assignments
   - [**Xl Phoenix API**](https://github.com/elixirland/xl-phoenix-api): Create a Phoenix API for retrieving books and their pages from a PostgreSQL database.
 
 ## Contributions
