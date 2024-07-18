@@ -13,7 +13,7 @@ Each repository within Elixirland will include a README file containing an assig
 **Note**: The primary focus of these repositories is to serve as learning resources. Therefore, the projects may not necessarily have real-world applications.
 
 ## Assignments
-  - [**Book Club**](https://github.com/elixirland/xla-book-club): Create a Phoenix API for retrieving books and their pages from a PostgreSQL database.
+  - [**Book Club**](https://github.com/elixirland/xla-book-club): Build a Phoenix API for retrieving books and their pages from a PostgreSQL database.
 
 ## Contributions
 As stated above, contributions are welcome. Whether in the form of code reviewing, opening an issue or creating pull requests.
