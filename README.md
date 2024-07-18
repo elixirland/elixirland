@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Elixirland is a project dedicated to providing a diverse collection of open-source Elixir projects aimed at helping the community learn and master the Elixir ecosystem. Studying open-source repositories was a crucial part of my learning journey. I appreciate the existing open-source initiatives, but I also found that having access to a broader range of projects would have been beneficial.
+Elixirland is dedicated to providing a diverse collection of open-source Elixir projects aimed at helping the community learn and master the Elixir ecosystem. Studying open-source repositories was a crucial part of my learning journey. I appreciate the existing open-source initiatives, but I also found that having access to a broader range of projects would have been beneficial.
 
 With Elixirland, I aim to complement the current collection of open-source projects by creating smaller, focused projects that emphasize learning the Elixir ecosystem. These projects aim to adhere to idiomatic Elixir practices.
 
