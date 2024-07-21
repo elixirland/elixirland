@@ -8,9 +8,10 @@ With Elixirland, I aim to complement the current collection of open-source proje
 
 ## Methodology
 
-Each repository within Elixirland will include a README file containing a exercise in the form of a exercise description, including a list of requirements, allowing you to create your own implementation before studying the repository's codebase. Additionally, each repository will have a status indicator, clearly stating whether the codebase has been reviewed by others in the community. I encourage the community to open issues and provide feedback on these repositories. This collaborative approach aims to ensure that the projects maintain high-quality, idiomatic codebases.
+Each repository within Elixirland will include a `README.md` file containing a exercise in the form of a exercise description, including a list of requirements, allowing you to create your own implementation before studying the repository's codebase. Additionally, each repository will have a status indicator, clearly stating whether the codebase has been reviewed by others in the community. I encourage the community to open issues and provide feedback on these repositories. This collaborative approach aims to ensure that the projects maintain high-quality, idiomatic codebases.
 
-**Note**: The primary focus of these repositories is to serve as learning resources. Therefore, the projects may not necessarily have real-world applications.
+> [!NOTE]
+> The primary focus of these repositories is to serve as learning resources. Therefore, the projects may not necessarily have real-world applications.
 
 ## Exercises
 Explore all exercises at https://elixirland.dev/exercises.
