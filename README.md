@@ -2,22 +2,21 @@
 
 ## Introduction
 
-Elixirland is dedicated to providing a diverse collection of open-source Elixir projects aimed at helping the community learn and master the Elixir ecosystem. Studying open-source repositories was a crucial part of my learning journey. I appreciate the existing open-source initiatives, but I also found that having access to a broader range of projects would have been beneficial.
+Elixirland aims to provide a diverse collection of exercises, along with example solutions, aimed at helping the community learn the Elixir ecosystem. Studying open-source repositories was a crucial part of my learning journey. I appreciate the existing open-source initiatives, but I also found that having access to a broader range of projects would have been beneficial.
 
-With Elixirland, I aim to complement the current collection of open-source projects by creating smaller, focused projects that emphasize learning the Elixir ecosystem. These projects aim to adhere to idiomatic Elixir practices.
+With Elixirland, I aim to complement the current collection of open-source projects by making open-source Elixir projects available that are specifically geared towards learning the Elixir ecosystem and idiomatic Elixir.
+
+Besides creates Elixirland exercises myself, I invite the Elixir community to submit their own exercises. Together we can make Elixir adoption more accessible and spark discussions about best-practices.
 
 ## Methodology
 
-Each repository within Elixirland will include a `README.md` file containing an exercise in the form of an exercise description, including a list of requirements, allowing you to create your own implementation before studying the repository's codebase. Additionally, each repository will have a status indicator, clearly stating whether the codebase has been reviewed by others in the community. I encourage the community to open issues and provide feedback on these repositories. This collaborative approach aims to ensure that the projects maintain high-quality, idiomatic codebases.
-
-> [!NOTE]
-> The primary focus of these repositories is to serve as learning resources. Therefore, the projects may not necessarily have real-world applications.
+Each exercise repository includes a `README.md` file containing the exercise description, including a list of requirements, allowing you to create your own implementation before studying the exercise's example solution. The exercise repositories can be viewed directly on GitHub, however, they are also available on the [Elixirland website](https://elixirland.dev). I encourage the community to open issues and provide feedback on these repositories. This collaborative approach aims to ensure that the projects maintain high-quality, idiomatic codebases.
 
 ## Exercises
 Explore all exercises at https://elixirland.dev/exercises.
 
 ## Contributions
-As stated above, contributions are welcome. Whether in the form of code reviewing, opening an issue or creating pull requests.
+As stated above, contributions are very welcome. Found out more about how you can contribute on the [contributions page](https://elixirland.dev/contributions) of the website.
 
 ## Other open source repositories
 Here is a non-exhaustive list of open source repositories outside of Elixirland.
