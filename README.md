@@ -16,7 +16,7 @@ Each exercise repository includes a `README.md` file containing the exercise des
 Explore all exercises at https://elixirland.dev/exercises.
 
 ## Contributions
-As stated above, contributions are very welcome. Found out more about how you can contribute on the [contributions page](https://elixirland.dev/contributions) of the website.
+As stated above, contributions are very welcome. Found out more about how you can contribute at https://elixirland.dev/contributions.
 
 ## Other open source repositories
 Here is a non-exhaustive list of open source repositories outside of Elixirland.
